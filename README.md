@@ -33,6 +33,29 @@ As few words as posible to describe the bug. eg `Unable to open inventory when o
 ```
 ##
 
+## [Lables and their meanings](https://github.com/Unchained-RP/bugs/issues/labels)
+Below is a table of all the labes that can be added to your bug reports.
+| Lable name 	    | Description |
+| ---	            | --- |
+| Bug 	          | Something isn't working |
+| Dev Needed      | Extra attention is needed |
+| Economy         | Economy issue | 
+| Enhancement     | New feature or request |
+| Imap            | Issues with IMAPing and map textures / collisions |
+| UX / UI         | Bugs that are issues with he UX / UI |
+| Low Importance  | This will be worked on last |
+| non-reproducible| Unable to reproduce this bug |
+| | |
+| Invalid         | Cant seem to replicate |
+| Duplicate       | This issue or pull request already exists | 
+| Wont fix        | An issue that we deem is not an issue and wont fix |
+| | |
+| In Progress     | Bugs that are being looked into |
+| Fixed?          | Issue should be fixed awaiting approval |
+| Complete        | Issue has been fixed, or is waiting for OP to confirm response |
+
+
+
 ## Disclamer
 * If the devs can't reproduce the bug they may close the issue.
 * If you still get the bug after the issue has been closed please re-open the bug with more infomation and images if you can reproduce
